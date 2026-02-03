@@ -41,7 +41,7 @@ const LeadModal: React.FC<LeadModalProps> = ({ isOpen, onClose, initialProduct }
             <img src="/logo.png" alt="logo" className="w-10 h-10" />
             <div>
               <h2 className="text-lg font-black text-slate-900 leading-none italic">Diagnóstico Cloud</h2>
-              <p className="text-[9px] font-black text-orange-400 uppercase tracking-widest mt-0.5">Aceleração kinka.cloud</p>
+              <p className="text-[9px] font-black text-orange-400 uppercase tracking-widest mt-0.5">Aceleração Kinkan.cloud</p>
             </div>
           </div>
           <button 
@@ -113,7 +113,7 @@ const LeadModal: React.FC<LeadModalProps> = ({ isOpen, onClose, initialProduct }
                   )}
                 </button>
                 <p className="text-[9px] text-slate-400 mt-4 text-center font-bold uppercase tracking-[0.2em] leading-none">
-                  Dados protegidos kinka.cloud
+                  Dados protegidos Kinkan.cloud
                 </p>
               </div>
             </form>
@@ -123,7 +123,7 @@ const LeadModal: React.FC<LeadModalProps> = ({ isOpen, onClose, initialProduct }
                 <CheckCircle2 size={32} />
               </div>
               <h2 className="text-2xl font-black text-slate-900 mb-2 italic tracking-tighter">Semente Plantada!</h2>
-              <p className="text-slate-600 mb-6 text-sm font-medium">Um especialista Kinka entrará em contato em breve.</p>
+              <p className="text-slate-600 mb-6 text-sm font-medium">Um especialista Kinkanentrará em contato em breve.</p>
               <button 
                 onClick={onClose}
                 className="bg-slate-900 text-white px-8 py-3.5 font-black rounded-xl hover:bg-orange-400 transition-all shadow-lg active:scale-95 text-sm"

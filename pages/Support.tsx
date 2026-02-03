@@ -21,7 +21,7 @@ const Support: React.FC = () => {
                 <MessageSquare />
               </div>
               <h3 className="text-xl font-bold mb-4">Chat em Tempo Real</h3>
-              <p className="text-slate-600 mb-8 text-sm leading-relaxed">Fale com especialistas kinka.cloud diretamente pelo painel.</p>
+              <p className="text-slate-600 mb-8 text-sm leading-relaxed">Fale com especialistas Kinkan.cloud diretamente pelo painel.</p>
               <button className="text-orange-600 font-bold flex items-center hover:translate-x-1 transition-transform">
                 Iniciar chat <ArrowUpRight className="ml-2 w-4 h-4" />
               </button>
@@ -34,7 +34,7 @@ const Support: React.FC = () => {
               <h3 className="text-xl font-bold mb-4">E-mail de Suporte</h3>
               <p className="text-slate-600 mb-8 text-sm leading-relaxed">Para tickets complexos ou solicitações de novas funcionalidades.</p>
               <button className="text-orange-600 font-bold flex items-center hover:translate-x-1 transition-transform">
-                suporte@kinka.cloud <ArrowUpRight className="ml-2 w-4 h-4" />
+                suporte@Kinkan.cloud <ArrowUpRight className="ml-2 w-4 h-4" />
               </button>
             </div>
 
@@ -67,7 +67,7 @@ const Support: React.FC = () => {
           <div className="text-center mb-16">
             <HelpCircle className="w-12 h-12 text-slate-400 mx-auto mb-6" />
             <h2 className="text-3xl font-bold mb-4 italic">Base de Conhecimento</h2>
-            <p className="text-slate-500">Documentação técnica para usuários Kinka.</p>
+            <p className="text-slate-500">Documentação técnica para usuários Kinkan.</p>
           </div>
           <div className="space-y-4">
             <Link to="/faq" className="block p-6 bg-white border border-slate-200 rounded-2xl hover:border-orange-600 transition-colors group">

@@ -14,12 +14,12 @@ const Footer: React.FC = () => {
               <span className="text-xl font-black tracking-tighter text-white">KINKA</span>
             </div>
             <p className="text-sm leading-relaxed mb-6 text-slate-400">
-              Amadurecendo negócios através de inteligência de dados e automações exclusivas. 4 anos entregando tecnologia de ponta no domínio kinka.cloud.
+              Amadurecendo negócios através de inteligência de dados e automações exclusivas. 4 anos entregando tecnologia de ponta no domínio Kinkan.cloud.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="p-2 bg-slate-800 rounded-2xl hover:bg-orange-600 hover:text-white transition-all"><Linkedin size={18} /></a>
               <a href="#" className="p-2 bg-slate-800 rounded-2xl hover:bg-orange-600 hover:text-white transition-all"><Instagram size={18} /></a>
-              <a href="mailto:contato@kinka.cloud" className="p-2 bg-slate-800 rounded-2xl hover:bg-orange-600 hover:text-white transition-all"><Mail size={18} /></a>
+              <a href="mailto:contato@Kinkan.cloud" className="p-2 bg-slate-800 rounded-2xl hover:bg-orange-600 hover:text-white transition-all"><Mail size={18} /></a>
             </div>
           </div>
 
@@ -56,20 +56,20 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={16} className="text-orange-400" />
-                <span>contato@kinka.cloud</span>
+                <span>contato@Kinkan.cloud</span>
               </li>
               <li className="flex items-center space-x-3">
                 <div className="w-4 h-4 rounded-2xl bg-orange-400/20 flex items-center justify-center">
                   <div className="w-1.5 h-1.5 rounded-2xl bg-orange-400"></div>
                 </div>
-                <span className="font-bold text-white tracking-tight">kinka.cloud</span>
+                <span className="font-bold text-white tracking-tight">Kinkan.cloud</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center text-[10px] text-slate-500 uppercase tracking-[0.15em]">
-          <p>© {new Date().getFullYear()} Kinka Software House. Todos os direitos reservados.</p>
+          <p>© {new Date().getFullYear()} KinkanSoftware House. Todos os direitos reservados.</p>
           <div className="flex space-x-6 mt-4 md:mt-0 font-bold">
             <a href="#" className="hover:text-white transition-colors">Privacidade</a>
             <a href="#" className="hover:text-white transition-colors">Termos de Uso</a>

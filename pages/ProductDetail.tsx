@@ -66,7 +66,7 @@ const ProductDetail: React.FC = () => {
                   </div>
                   <div>
                     <div className="text-xs text-slate-500 uppercase font-bold tracking-tighter">Status Cloud</div>
-                    <div className="text-lg font-black text-slate-900">Kinka.cloud OK</div>
+                    <div className="text-lg font-black text-slate-900">Kinkan.cloud OK</div>
                   </div>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const ProductDetail: React.FC = () => {
       <section className="py-24 text-center">
         <div className="max-w-3xl mx-auto px-4">
           <h2 className="text-3xl font-bold mb-6 italic">Vamos amadurecer seu projeto?</h2>
-          <p className="text-slate-600 mb-10 leading-relaxed">Nossos engenheiros cloud estão prontos para transformar sua ideia em um ativo digital de alto valor em kinka.cloud.</p>
+          <p className="text-slate-600 mb-10 leading-relaxed">Nossos engenheiros cloud estão prontos para transformar sua ideia em um ativo digital de alto valor em Kinkan.cloud.</p>
           <button 
             onClick={() => openDemoModal(product.slug)}
             className="bg-orange-600 hover:bg-orange-400 text-white px-10 py-5 text-xl font-black rounded-2xl shadow-2xl shadow-orange-600/20 transition-all flex items-center justify-center mx-auto"

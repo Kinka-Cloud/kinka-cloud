@@ -22,7 +22,7 @@ const Home: React.FC = () => {
                 Tecnologia que <span className="text-orange-400">amadurece</span> sua empresa.
               </h1>
               <p className="text-lg md:text-xl text-slate-600 mb-10 max-w-xl leading-relaxed font-medium">
-                Na Kinka, transformamos complexidade técnica em eficiência operacional. Soluções nativas em <span className="text-slate-900 font-bold">kinka.cloud</span> para negócios que visam o topo.
+                Na Kinka, transformamos complexidade técnica em eficiência operacional. Soluções nativas em <span className="text-slate-900 font-bold">Kinkan.cloud</span> para negócios que visam o topo.
               </p>
               <div className="flex flex-col sm:flex-row gap-5">
                 <button 
@@ -43,7 +43,7 @@ const Home: React.FC = () => {
               <div className="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white group">
                 <img 
                   src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1200" 
-                  alt="Time Kinka em operação" 
+                  alt="Time Kinkanem operação" 
                   className="w-full h-auto object-cover aspect-[4/3] group-hover:scale-105 transition-transform duration-1000"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-orange-400/20 to-transparent"></div>
@@ -59,7 +59,7 @@ const Home: React.FC = () => {
                     <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Performance Cloud</p>
                   </div>
                 </div>
-                <p className="text-xs text-slate-500 font-medium leading-relaxed">Média de ganho produtivo em parceiros kinka.cloud</p>
+                <p className="text-xs text-slate-500 font-medium leading-relaxed">Média de ganho produtivo em parceiros Kinkan.cloud</p>
               </div>
             </div>
           </div>
@@ -90,7 +90,7 @@ const Home: React.FC = () => {
         <div className="absolute top-[-50%] left-[-20%] w-[100%] h-[200%] bg-orange-400/10 rounded-2xl blur-[120px] animate-pulse"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
           <h2 className="text-4xl md:text-7xl font-black text-white mb-10 italic tracking-tighter">Pronto para a colheita?</h2>
-          <p className="text-slate-400 mb-16 max-w-3xl mx-auto text-lg md:text-xl font-medium leading-relaxed">Agende uma demonstração personalizada e descubra como o ecossistema <span className="text-white font-bold">kinka.cloud</span> pode automatizar centenas de horas do seu time ainda este mês.</p>
+          <p className="text-slate-400 mb-16 max-w-3xl mx-auto text-lg md:text-xl font-medium leading-relaxed">Agende uma demonstração personalizada e descubra como o ecossistema <span className="text-white font-bold">Kinkan.cloud</span> pode automatizar centenas de horas do seu time ainda este mês.</p>
           <div className="max-w-md mx-auto">
             <button 
               onClick={() => openDemoModal()}
