@@ -29,7 +29,7 @@ const ProductDetail: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div>
-              <span className="text-orange-600 font-bold text-sm tracking-widest uppercase mb-4 block">Engenharia Kinka</span>
+              <span className="text-orange-600 font-bold text-sm tracking-widest uppercase mb-4 block">Engenharia Kinkan</span>
               <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-8 leading-tight italic">{product.headline}</h1>
               <div className="bg-orange-50 border-l-4 border-orange-400 p-6 mb-8">
                 <p className="text-orange-600 font-medium">
@@ -118,7 +118,7 @@ const ProductDetail: React.FC = () => {
             </div>
             <div>
               <h2 className="text-2xl font-black mb-8 flex items-center italic">
-                <ShieldCheck className="text-orange-600 mr-2" /> Vantagens Kinka
+                <ShieldCheck className="text-orange-600 mr-2" /> Vantagens Kinkan
               </h2>
               <div className="grid gap-6">
                 {product.advantages.map((a, i) => (

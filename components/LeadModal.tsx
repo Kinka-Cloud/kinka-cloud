@@ -123,7 +123,7 @@ const LeadModal: React.FC<LeadModalProps> = ({ isOpen, onClose, initialProduct }
                 <CheckCircle2 size={32} />
               </div>
               <h2 className="text-2xl font-black text-slate-900 mb-2 italic tracking-tighter">Semente Plantada!</h2>
-              <p className="text-slate-600 mb-6 text-sm font-medium">Um especialista Kinkanentrará em contato em breve.</p>
+              <p className="text-slate-600 mb-6 text-sm font-medium">Um especialista Kinkan entrará em contato em breve.</p>
               <button 
                 onClick={onClose}
                 className="bg-slate-900 text-white px-8 py-3.5 font-black rounded-xl hover:bg-orange-400 transition-all shadow-lg active:scale-95 text-sm"

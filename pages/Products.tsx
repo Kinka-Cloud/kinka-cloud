@@ -21,7 +21,7 @@ const Products: React.FC = () => {
       <section className="bg-slate-900 py-32 text-center relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-orange-400/10 via-transparent to-transparent opacity-50"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-          <span className="text-orange-400 font-black tracking-[0.3em] uppercase text-xs mb-6 block">KinkanCloud Engineering</span>
+          <span className="text-orange-400 font-black tracking-[0.3em] uppercase text-xs mb-6 block">Kinkan Cloud Engineering</span>
           <h1 className="text-5xl md:text-7xl font-black text-white mb-8 italic tracking-tighter">Nosso Ecossistema</h1>
           <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto font-medium leading-relaxed">Tecnologia madura, desenhada para quem não aceita nada menos que a excelência em Kinkan.cloud.</p>
         </div>
@@ -68,7 +68,7 @@ const Products: React.FC = () => {
             <div className="w-16 h-16 bg-orange-400 rounded-2xl flex items-center justify-center text-white shadow-xl shadow-orange-400/30 mb-6">
               <Zap size={32} />
             </div>
-            <p className="font-black text-slate-900 uppercase tracking-widest text-sm mb-1">KinkanCore Engineering</p>
+            <p className="font-black text-slate-900 uppercase tracking-widest text-sm mb-1">Kinkan Core Engineering</p>
             <p className="text-xs text-slate-500 font-bold">Inovação Cloud desde 2021</p>
           </div>
         </div>

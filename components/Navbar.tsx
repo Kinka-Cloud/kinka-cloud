@@ -31,7 +31,7 @@ const Navbar: React.FC = () => {
             <div className="transition-transform duration-500 w-12 group-hover:scale-110">
               <img src="/logo.png" alt="logo" />
             </div>
-            <span className="text-2xl font-black tracking-tighter text-slate-900">KINKA</span>
+            <span className="text-2xl font-black tracking-tighter text-slate-900">KINKAN</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">
@@ -74,7 +74,7 @@ const Navbar: React.FC = () => {
           <div className="px-6 py-6 flex items-center justify-between border-b border-slate-100/50">
             <div className="flex items-center space-x-3 w-24">
               <img src="/logo.png" alt="logo" />
-              <span className="font-black tracking-tighter text-xl">KINKA</span>
+              <span className="font-black tracking-tighter text-xl">KINKAN</span>
             </div>
             <button 
               onClick={() => setIsOpen(false)}

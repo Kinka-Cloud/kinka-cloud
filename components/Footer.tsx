@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center space-x-3 mb-6">
               <img src="/logo.png" alt="logo" className="w-8 h-8" />
-              <span className="text-xl font-black tracking-tighter text-white">KINKA</span>
+              <span className="text-xl font-black tracking-tighter text-white">KINKAN</span>
             </div>
             <p className="text-sm leading-relaxed mb-6 text-slate-400">
               Amadurecendo negócios através de inteligência de dados e automações exclusivas. 4 anos entregando tecnologia de ponta no domínio Kinkan.cloud.
@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-4 text-sm">
               <li><a href="#/" className="hover:text-orange-600 transition-colors">Nossa História</a></li>
               <li><a href="#/faq" className="hover:text-orange-600 transition-colors">Dúvidas Frequentes</a></li>
-              <li><a href="#/sac" className="hover:text-orange-600 transition-colors">Suporte Kinka</a></li>
+              <li><a href="#/sac" className="hover:text-orange-600 transition-colors">Suporte Kinkan</a></li>
               <li><a href="#" className="hover:text-orange-600 transition-colors">Ecossistema Cloud</a></li>
             </ul>
           </div>

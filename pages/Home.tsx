@@ -22,7 +22,7 @@ const Home: React.FC = () => {
                 Tecnologia que <span className="text-orange-400">amadurece</span> sua empresa.
               </h1>
               <p className="text-lg md:text-xl text-slate-600 mb-10 max-w-xl leading-relaxed font-medium">
-                Na Kinka, transformamos complexidade técnica em eficiência operacional. Soluções nativas em <span className="text-slate-900 font-bold">Kinkan.cloud</span> para negócios que visam o topo.
+                Na Kinkan, transformamos complexidade técnica em eficiência operacional. Soluções nativas em <span className="text-slate-900 font-bold">Kinkan.cloud</span> para negócios que visam o topo.
               </p>
               <div className="flex flex-col sm:flex-row gap-5">
                 <button 
@@ -43,7 +43,7 @@ const Home: React.FC = () => {
               <div className="relative rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white group">
                 <img 
                   src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1200" 
-                  alt="Time Kinkanem operação" 
+                  alt="Time Kinkan em operação" 
                   className="w-full h-auto object-cover aspect-[4/3] group-hover:scale-105 transition-transform duration-1000"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-orange-400/20 to-transparent"></div>

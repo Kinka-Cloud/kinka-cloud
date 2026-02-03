@@ -8,7 +8,7 @@ const Support: React.FC = () => {
     <div className="pt-20">
       <section className="bg-slate-900 py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-6xl font-black text-white mb-6 italic">Suporte Kinka</h1>
+          <h1 className="text-4xl md:text-6xl font-black text-white mb-6 italic">Suporte Kinkan</h1>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto">Assistência especializada para manter seu ecossistema digital sempre saudável e produtivo.</p>
         </div>
       </section>
@@ -42,7 +42,7 @@ const Support: React.FC = () => {
               <div className="bg-slate-900 w-14 h-14 flex items-center justify-center rounded-xl mb-8 text-white">
                 <Clock />
               </div>
-              <h3 className="text-xl font-bold mb-4 italic">SLA Kinka</h3>
+              <h3 className="text-xl font-bold mb-4 italic">SLA Kinkan</h3>
               <ul className="text-sm text-slate-600 space-y-4 mb-8">
                 <li className="flex justify-between border-b border-slate-200 pb-2">
                   <span>Emergência</span>
@@ -72,7 +72,7 @@ const Support: React.FC = () => {
           <div className="space-y-4">
             <Link to="/faq" className="block p-6 bg-white border border-slate-200 rounded-2xl hover:border-orange-600 transition-colors group">
               <div className="flex justify-between items-center">
-                <span className="font-bold text-slate-900">Ver FAQ Kinka</span>
+                <span className="font-bold text-slate-900">Ver FAQ Kinkan</span>
                 <ChevronRight className="group-hover:translate-x-2 transition-transform" />
               </div>
             </Link>
